@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import Image from 'next/image';
 
 const YearsOfExperienceSection = () => {
   const [counts, setCounts] = useState({
@@ -52,8 +53,18 @@ const YearsOfExperienceSection = () => {
   }, []);
 
   return (
-    <section className="section section-sm bg-default py-20">
-      <div className="container mx-auto px-4">
+    <section className="section section-sm bg-default py-20 relative overflow-hidden">
+      {/* Background Image */}
+      <div className="absolute inset-0">
+        <Image
+          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20241125_150837.jpg-npTx6WvW9sUIQ5LWdzRCv9B7CuTLmg.jpeg"
+          alt="Arid landscape background"
+          fill
+          className="object-cover opacity-20"
+        />
+        <div className="absolute inset-0 bg-gradient-to-br from-blue-900/80 via-purple-900/80 to-indigo-900/80" />
+      </div>
+      <div className="container mx-auto px-4 relative z-10">
         <div className="flex flex-col lg:flex-row items-center justify-center gap-12 lg:gap-16">
           {/* Years Counter */}
           <div className="text-center">

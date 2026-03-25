@@ -13,40 +13,64 @@ const ProjectsSection = () => {
       id: 1,
       title: 'Resilience Knowledge Fare',
       category: 'resilience',
-      image: 'https://res.cloudinary.com/dcutc6ix8/image/upload/20230706_132733_l9emii.jpg',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20241030_134600.jpg-r14OoaZ5W0z6izT0PXKPMh87P20F4C.jpeg',
       description: 'Our team has trained journalists to acquire new skills necessary in their trade and helped county governments, especially in the arid and semi-arid areas to build resilience that will enable them to withstand the shocks and vagaries of weather changes through effective and efficient communication.',
       link: '#'
     },
     {
       id: 2,
-      title: 'Authoring and Publishing',
+      title: 'Sustainable Agriculture Initiatives',
       category: 'agricultural',
-      image: 'https://res.cloudinary.com/dcutc6ix8/image/upload/10_rich_2_z8bvak.jpg',
-      description: 'Over the last two years, Seed Savers Network a social enterprise dedicated to improving seed access and agro-biodiversity conservation in partnership with Hivos East Africa has been researching and documenting rich, underutilized crops.',
-      link: 'https://hivos.org/10-richunderutilized-crops-in-kenya/'
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20250403_161759%280%29.jpg-VRugx4E827pFBohWjSCDBsvtpzDA2b.jpeg',
+      description: 'Supporting farmers and communities in sustainable agricultural practices, helping them adapt to changing climate conditions while maintaining food security and economic stability.',
+      link: '#'
     },
     {
       id: 3,
-      title: 'Media Mobilization',
-      category: 'media',
-      image: 'https://res.cloudinary.com/dcutc6ix8/image/upload/garissa_media_veskxg.jpg',
-      description: 'ProComm provides training of various tools, techniques, and platforms used in the creation, distribution, and consumption of different types of media content, such as audio, video, graphics, and more.',
+      title: 'Livestock Restocking Initiative',
+      category: 'resilience',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PICTURE%20%20%2811%29-E2Kvg4v6nMs399OWEWaiSmObAuJW9n.png',
+      description: 'Working with National Drought Management Authority to support pastoral communities through livestock restocking programs. The Somali breed camels are more resilient than local breeds, helping communities adapt to climate challenges.',
       link: '#'
     },
     {
       id: 4,
-      title: 'Engagement with County',
-      category: 'training',
-      image: 'https://res.cloudinary.com/dcutc6ix8/image/upload/20230502_120952_qmqdc0.jpg',
-      description: 'This is a comprehensive program designed to equip aspiring journalists with the necessary skills, knowledge, and practical experience to excel in the dynamic field of journalism.',
+      title: 'Agropastoral Farming Support',
+      category: 'agricultural',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PICTURE%20%20%288%29-Dc33NCRYzLASAEj6CWrbKQcQV7KB2f.png',
+      description: 'Supporting mixed farmers in diversifying to agropastoral farming with access to water for irrigation. Farmers are growing pawpaw, bananas, cassava, sweet potatoes, and cowpeas among other food crops.',
       link: '#'
     },
     {
       id: 5,
-      title: 'Media Training and Capacity Building',
-      category: 'training',
-      image: 'https://res.cloudinary.com/dcutc6ix8/image/upload/speech_g9jko3.jpg',
-      description: 'We focus on creating educational content, and training modules to share knowledge and skills on various subjects. We draw this from our pool of professionals who are well-tested in media and journalism.',
+      title: 'Dairy Goat Distribution Program',
+      category: 'resilience',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PICTURE%20%20%286%29-zwbo6MCIZOs6YEUbbeosQTyQIQNMOO.png',
+      description: 'National Drought Management Authority donated dairy goats to household beneficiaries. With climate change affecting many households, the dairy goats provide an alternative livelihood source and adaptation strategy.',
+      link: '#'
+    },
+    {
+      id: 6,
+      title: 'Science Week Innovation Showcase',
+      category: 'media',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20250408_151700.jpg-ZC2rJqq3PpVG7JpMo9l7e0AQWxbWTF.jpeg',
+      description: 'ProComm provides training of various tools, techniques, and platforms used in the creation, distribution, and consumption of different types of media content, including phenotyping technologies and agricultural innovations.',
+      link: '#'
+    },
+    {
+      id: 7,
+      title: 'Livestock Market Development',
+      category: 'agricultural',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20241014_115012.jpg-xHI0iscC6W6K6XaptupoSvbHLpmJsn.jpeg',
+      description: 'Supporting livestock market infrastructure and connecting pastoral communities to sustainable economic opportunities while building climate-resilient livelihoods.',
+      link: '#'
+    },
+    {
+      id: 8,
+      title: 'Camel Herding Communities',
+      category: 'resilience',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20241023_101815.jpg-u71IN1YwxyNS8v11xnCQ3uSg2OJcU1.jpeg',
+      description: 'Working with camel herding communities to document traditional knowledge and support sustainable pastoral practices in arid and semi-arid regions.',
       link: '#'
     }
   ];

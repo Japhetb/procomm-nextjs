@@ -52,8 +52,8 @@ const ServicesSection = () => {
           <div className="mb-12 lg:mb-0">
             <div className="relative rounded-lg overflow-hidden shadow-2xl">
               <Image
-                src="https://res.cloudinary.com/dcutc6ix8/image/upload/v1760551198/facebook_1757684718893_7372264047194910539_yp6u6d.jpg"
-                alt="What We Offer"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20241014_115024.jpg-hDivpXtqmNVsYaPPb1djT8FZjAbP11.jpeg"
+                alt="What We Offer - Supporting pastoral communities and livestock markets"
                 width={600}
                 height={700}
                 className="w-full h-auto object-cover"
