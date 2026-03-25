@@ -205,8 +205,8 @@ export default function AboutPage() {
             <div className="grid grid-cols-1 lg:grid-cols-2">
               <div className="relative h-64 lg:h-auto">
                 <Image
-                  src="/images/project1.jpg"
-                  alt="Our story"
+                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20241125_105112.jpg-9OewLBKU2NHe8nrILQ7TbTcwIbrkMp.jpeg"
+                  alt="Our story - Working with communities along rivers and water resources"
                   fill
                   className="object-cover"
                 />

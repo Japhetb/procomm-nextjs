@@ -8,7 +8,7 @@ const PublicationsSection = () => {
     {
       id: 1,
       title: '10 rich, underutilized crops in Kenya',
-      image: 'https://res.cloudinary.com/dcutc6ix8/image/upload/interphase_1_hpd5kz.jpg',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20250403_161759%280%29.jpg-VRugx4E827pFBohWjSCDBsvtpzDA2b.jpeg',
       date: { month: '07', day: '04' },
       excerpt: '"Based on their nutritional value and their resilience to changing weather and climatic conditions, the crops should be produced and marketed on a bigger, more commercial scale by the farmer communities," Nout said ...',
       link: 'https://hivos.org/10-richunderutilized-crops-in-kenya/'
@@ -16,7 +16,7 @@ const PublicationsSection = () => {
     {
       id: 2,
       title: '12 Best Agroecological Practices',
-      image: 'https://res.cloudinary.com/dcutc6ix8/image/upload/image_narwdb.jpg',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PICTURE%20%20%288%29-Dc33NCRYzLASAEj6CWrbKQcQV7KB2f.png',
       date: { month: '07', day: '17' },
       excerpt: 'Farming is inherently risky, with unpredictable weather, pests, and market fluctuations posing constant challenges. To mitigate these risks and protect their livelihoods, farmers often turn to crop insurance....',
       link: 'https://www.pelumkenya.net/wp-content/uploads/2021/11/12-Best-Agroecological-Practices.pdf'
@@ -24,7 +24,7 @@ const PublicationsSection = () => {
     {
       id: 3,
       title: 'AGRICULTURE in KENYA',
-      image: 'https://res.cloudinary.com/dcutc6ix8/image/upload/image-079_tzr77x.jpg',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PICTURE%20%20%286%29-zwbo6MCIZOs6YEUbbeosQTyQIQNMOO.png',
       date: { month: '07', day: '22' },
       excerpt: 'Ever enjoyed some cheese, yoghurt, French Beans, Mango juice, honey or some meat and wondered where it came from? Does it sometimes sound magical how food grows from a seed in the soil to a delicious meal on your table? Do you do food production or processing and wonder where it finally lands? Well, this is the right book for you...',
       link: 'https://drive.google.com/file/d/1vLxI5NzRJKWLqVUvGC8szQuKYAFNgFg4/view'

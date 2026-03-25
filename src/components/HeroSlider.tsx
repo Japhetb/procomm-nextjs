@@ -17,14 +17,21 @@ const HeroSlider = () => {
       ctaLink: '/contact'
     },
     {
-      image: 'https://res.cloudinary.com/dcutc6ix8/image/upload/banner2_kdbyc2.jpg',
-      title: 'Knowledge sharing and management',
-      subtitle: 'In a world where information is constantly evolving and changing, knowledge management is crucial. This service involves helping clients organize, access and utilize information effectively in order to make informed decisions.',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20250408_083302.jpg-IaalMhpDaMOynd8u2s0VyrMMidIdD6.jpeg',
+      title: 'CGIAR Science Week Partnership',
+      subtitle: 'Reimagining a sustainable and healthy future for people and the planet. Working with CGIAR and KALRO to advance agricultural research and innovation through strategic communication and knowledge sharing.',
       cta: 'Get in touch',
       ctaLink: '/contact'
     },
     {
-      image: 'https://res.cloudinary.com/dcutc6ix8/image/upload/v1760551243/20250408_083302_ezkdqa.jpg',
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20241015_144125.jpg-nCbMKKXxnuCcCfaPw0bZ3gukkLyspB.jpeg',
+      title: 'Community Empowerment',
+      subtitle: 'Supporting pastoral and farming communities across Kenya through effective communication strategies that help preserve cultural heritage while building climate resilience.',
+      cta: 'Get in touch',
+      ctaLink: '/contact'
+    },
+    {
+      image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20241125_150837.jpg-npTx6WvW9sUIQ5LWdzRCv9B7CuTLmg.jpeg',
       title: 'Resilience Building',
       subtitle: 'The organization has experience in helping entities prepare for and adapt to environmental challenges and uncertainties, hence its commitment to working with county governments to build resilience in arid and semi-arid areas.',
       cta: 'Get in touch',
